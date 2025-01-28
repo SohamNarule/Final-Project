@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\repositories\\implementation\\bookingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\repositories\\implementation\\bookingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\repositories\\implementation\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\repositories\\implementation\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\entities\\bookingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\entities\\bookingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\migrations\\20250108013053_tourism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\migrations\\20250108013053_tourism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\repositories\\interface\\ibookingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\repositories\\interface\\ibookingdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\services\\implementation\\bookingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\services\\implementation\\bookingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\services\\interface\\ibookingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\services\\interface\\ibookingdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\entities\\mypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\entities\\mypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\services\\implementation\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\services\\implementation\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|c:\\users\\dell\\downloads\\readyroam with dotnet\\readyroam with dotnet\\tourism\\tourism\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8791CC2A-196C-48E2-9BAC-E1C1D01D3032}|Tourism\\Tourism.csproj|solutionrelative:tourism\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250108013053_Tourism.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Migrations\\20250108013053_Tourism.cs",
+              "RelativeDocumentMoniker": "Tourism\\Migrations\\20250108013053_Tourism.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Migrations\\20250108013053_Tourism.cs",
+              "RelativeToolTip": "Tourism\\Migrations\\20250108013053_Tourism.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:30:54.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "Tourism\\Controllers\\PackageController.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "Tourism\\Controllers\\PackageController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:59:47.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\BookingDetails.cs",
+              "RelativeDocumentMoniker": "Tourism\\Entities\\BookingDetails.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\BookingDetails.cs",
+              "RelativeToolTip": "Tourism\\Entities\\BookingDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:57:08.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Repositories\\Implementation\\BookingDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Tourism\\Repositories\\Implementation\\BookingDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Repositories\\Implementation\\BookingDetailsRepository.cs",
+              "RelativeToolTip": "Tourism\\Repositories\\Implementation\\BookingDetailsRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:55:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Repositories\\Implementation\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "Tourism\\Repositories\\Implementation\\PackageRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Repositories\\Implementation\\PackageRepository.cs",
+              "RelativeToolTip": "Tourism\\Repositories\\Implementation\\PackageRepository.cs",
+              "ViewState": "AgIAABAAAAAAzczMzMwUwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:57:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Controllers\\BookingDetailsController.cs",
+              "RelativeDocumentMoniker": "Tourism\\Controllers\\BookingDetailsController.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Controllers\\BookingDetailsController.cs",
+              "RelativeToolTip": "Tourism\\Controllers\\BookingDetailsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:35:32.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Interface\\IBookingDetailsService.cs",
+              "RelativeDocumentMoniker": "Tourism\\Services\\Interface\\IBookingDetailsService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Interface\\IBookingDetailsService.cs",
+              "RelativeToolTip": "Tourism\\Services\\Interface\\IBookingDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:53:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Implementation\\BookingDetailsService.cs",
+              "RelativeDocumentMoniker": "Tourism\\Services\\Implementation\\BookingDetailsService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Implementation\\BookingDetailsService.cs",
+              "RelativeToolTip": "Tourism\\Services\\Implementation\\BookingDetailsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:54:49.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyPackage.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\MyPackage.cs",
+              "RelativeDocumentMoniker": "Tourism\\Entities\\MyPackage.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\MyPackage.cs",
+              "RelativeToolTip": "Tourism\\Entities\\MyPackage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:08:08.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookingDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Repositories\\Interface\\IBookingDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Tourism\\Repositories\\Interface\\IBookingDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Repositories\\Interface\\IBookingDetailsRepository.cs",
+              "RelativeToolTip": "Tourism\\Repositories\\Interface\\IBookingDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:55:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\appsettings.json",
+              "RelativeDocumentMoniker": "Tourism\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\appsettings.json",
+              "RelativeToolTip": "Tourism\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T00:22:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Tourism\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Tourism\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAoAAACgmZmZmZkywCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:16:22.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Tourism\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Tourism\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:01:01.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Implementation\\LoginService.cs",
+              "RelativeDocumentMoniker": "Tourism\\Services\\Implementation\\LoginService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Implementation\\LoginService.cs",
+              "RelativeToolTip": "Tourism\\Services\\Implementation\\LoginService.cs",
+              "ViewState": "AgIAACIAAAAAMzMzMzMDwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:58:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "Tourism\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\Login.cs",
+              "RelativeToolTip": "Tourism\\Entities\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:57:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Tourism\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Tourism\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:16:37.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Program.cs",
+              "RelativeDocumentMoniker": "Tourism\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Program.cs",
+              "RelativeToolTip": "Tourism\\Program.cs",
+              "ViewState": "AgIAAB4AAACAZmZmZmYkwDUAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:29:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Tourism\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\ReadyRoam With Dotnet\\ReadyRoam With Dotnet\\Tourism\\Tourism\\Entities\\User.cs",
+              "RelativeToolTip": "Tourism\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAAAAMzMzMzMbwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:06:20.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
